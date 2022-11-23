@@ -1,2 +1,7 @@
 content
 change made in GitHub
+
+The git add command adds a change in the working directory to the staging area.
+The git commit command save the changes to your local repository.
+The git push command sync your change in local repository to the remote repository.
+
